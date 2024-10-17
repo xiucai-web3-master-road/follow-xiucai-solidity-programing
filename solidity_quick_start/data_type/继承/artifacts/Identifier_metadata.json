@@ -1,0 +1,94 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "_dividend",
+						"type": "uint256"
+					}
+				],
+				"name": "getExactDividedBy2And3",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					},
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "_dividend",
+						"type": "uint256"
+					}
+				],
+				"name": "getExactDividedBy2And3WithoutModifier",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					},
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"solidity_quick_start/data_type/继承/重写Modifier.sol": "Identifier"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"solidity_quick_start/data_type/继承/重写Modifier.sol": {
+			"keccak256": "0xec7c60b47eb9846e9135829391034562f016d5b63ca1dee92da7158aa2f1a897",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://046cbd1b25c04eb08cab326281078957892ec48356a9940a307ca7b17bceb06a",
+				"dweb:/ipfs/QmeNYVKhmJherq1gESCMAqJwXwebmeX9E4NafRPhp5jvr1"
+			]
+		}
+	},
+	"version": 1
+}

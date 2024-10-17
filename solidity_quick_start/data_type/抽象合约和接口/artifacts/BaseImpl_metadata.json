@@ -1,0 +1,72 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "getFirstName",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "getLastName",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"solidity_quick_start/data_type/抽象合约和接口/测试.sol": "BaseImpl"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"solidity_quick_start/data_type/抽象合约和接口/测试.sol": {
+			"keccak256": "0x877b2b8b356b40015a253f62917f7e91f82601ada6a33fd984ea2d07c5ddcda2",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://f08d57be5fb9d8df39a8d5d42897c7d7712875bb1bdcd4fb65284c9f3240ebf0",
+				"dweb:/ipfs/QmTeZm4vLwnCnndiLa1dWFmwzgcjXEi1E1AHfd6geLomSc"
+			]
+		}
+	},
+	"version": 1
+}
